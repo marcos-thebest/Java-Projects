@@ -1,51 +1,95 @@
-☕ Java-Projects
+# ☕ Java-Projects  
 
-Repositório com projetos desenvolvidos em Java, com foco em Programação Orientada a Objetos (POO).
+<p align="center">
+  <b>Projetos desenvolvidos em Java com foco em Programação Orientada a Objetos</b>
+</p>
 
-📌 Sobre o Repositório
+<p align="center">
+  🚀 Em constante evolução • 💻 Prática de fundamentos • 📚 Aprendizado contínuo
+</p>
 
-O Java-Projects reúne aplicações desenvolvidas para praticar e consolidar os fundamentos da linguagem Java.
+---
 
-Os projetos exploram principalmente:
+## 📖 Sobre o Repositório
 
-Estruturação de classes
+O **Java-Projects** é um conjunto de aplicações desenvolvidas para fortalecer os fundamentos da linguagem Java e consolidar os principais conceitos da **Programação Orientada a Objetos (POO)**.
 
-Modelagem de objetos
+Este repositório representa minha evolução prática na construção de sistemas utilizando boas práticas de organização e modelagem de código.
 
-Relacionamento entre classes
+---
 
-Organização de código
+## 🧠 Conceitos Trabalhados
 
-Boas práticas de desenvolvimento
+- Programação Orientada a Objetos  
+- Encapsulamento  
+- Abstração  
+- Relacionamento entre classes  
+- Manipulação de objetos  
+- Uso de coleções (`ArrayList`)  
+- Organização em pacotes  
+- Estruturação limpa de código  
 
-Este repositório faz parte da minha jornada de aprendizado e evolução como desenvolvedor Java.
+---
 
-🧠 Conceitos Aplicados
+## 🛠️ Tecnologias Utilizadas
 
-✔ Programação Orientada a Objetos (POO)
-✔ Encapsulamento
-✔ Abstração
-✔ Criação e manipulação de objetos
-✔ Uso de coleções como ArrayList
-✔ Organização em pacotes
-✔ Versionamento com Git
+- ☕ Java  
+- 💻 IntelliJ IDEA  
+- 🗂️ Git  
+- 🌐 GitHub  
 
-🛠️ Tecnologias Utilizadas
+---
 
-☕ Java
+## 📂 Estrutura do Projeto
 
-💻 IntelliJ IDEA
-
-🗂️ Git
-
-🌐 GitHub
-
-📂 Estrutura do Projeto
+```
 Java-Projects/
-├── src/                # Código-fonte principal
-├── .gitignore          # Arquivos ignorados pelo Git
-▶️ Como Executar
+│
+├── src/                 # Código-fonte principal
+│   ├── App.java
+│   ├── Computador.java
+│   ├── Fabricante.java
+│   └── outras classes...
+│
+└── .gitignore           # Arquivos ignorados pelo Git
+```
 
-1️⃣ Clone o repositório:
+---
 
+## ▶️ Como Executar o Projeto
+
+Clone o repositório:
+
+```bash
 git clone https://github.com/marcos-thebest/Java-Projects.git
+```
+
+Abra no **IntelliJ IDEA** e execute a classe que contém o método `main`.
+
+---
+
+## 🎯 Objetivo
+
+Este repositório tem como finalidade:
+
+- Desenvolver domínio da linguagem Java  
+- Aplicar corretamente os conceitos de POO  
+- Construir uma base sólida para projetos maiores  
+- Evoluir continuamente como desenvolvedor  
+
+---
+
+## 📈 Próximos Passos
+
+- Implementar persistência de dados  
+- Criar versões com Maven ou Gradle  
+- Adicionar testes automatizados  
+- Expandir para projetos mais complexos  
+
+---
+
+## 👨‍💻 Autor
+
+**Marcos Vinicius de Jesus Almeida**  
+
+Desenvolvedor em formação focado em Java e boas práticas de programação.
